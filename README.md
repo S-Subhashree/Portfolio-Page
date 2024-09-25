@@ -18,3 +18,10 @@ Welcome to the Portfolio Page project! This repository contains the code for a m
 **Links:**
 
 - Update the href attributes in the project links with your personal and professional projects.
+
+### Installation
+
+1. **Clone the Repository:**
+
+   ```sh
+   git clone https://github.com/S-Subhashree/Portfolio-Page.git
