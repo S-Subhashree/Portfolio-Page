@@ -35,6 +35,21 @@ section {
     border-radius: 5px;
 }
 
+.social-links {
+    margin: 10px 0;
+}
+
+.social-icon img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+    vertical-align: middle;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
 .project {
     margin: 20px 0;
 }
